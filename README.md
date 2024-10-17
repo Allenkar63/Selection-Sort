@@ -30,5 +30,11 @@ Each algorithm has its own strengths and weaknesses depending on the size and na
 ### 1. **Selection Sort Algorithm**:
 Selection Sort repeatedly finds the minimum element from the unsorted part and swaps it with the first unsorted element.
 
+### 2. **Insertion Sort Algorithm**:
+Insertion Sort builds a sorted array by repeatedly taking each element from the unsorted part of the array and inserting it into its correct position in the sorted part.
+
+### 3. **Bubble Sort Algorithm**:
+Bubble Sort repeatedly compares adjacent elements in the array and swaps them if they are in the wrong order, "bubbling" the largest unsorted element to its correct position.
+
 ## Conclusion:
 In this experiment we learned about many sorting algorithms such as bubble sort,selection sort and insertion sort with cpp.
